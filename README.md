@@ -1,3 +1,3 @@
 # Dictionary
 13/11/2019 
-first repository
+first repository of Dictionary
